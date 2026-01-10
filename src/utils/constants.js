@@ -5,11 +5,11 @@ export const PERSONAL_INFO = {
   location: 'Cox\'s Bazar, BD',
   tagline: 'Crafting seamless digital experiences with modern web technologies.',
   resume: '/resume.pdf',
-  bio: `
-    I'm a passionate React developer with over 3 years of experience building modern web applications.
-    My expertise spans the entire frontend ecosystem, from React and Next.js to performance optimization and design systems.
-    When I'm not coding, you'll find me contributing to open-source projects and sharing knowledge with the dev community.
-  `,
+  bio: [
+    "I'm a passionate React developer with over 3 years of experience building modern web applications.",
+    "My expertise spans the entire frontend ecosystem, from React and Next.js to performance optimization and design systems.",
+    "When I'm not coding, you'll find me contributing to open-source projects and sharing knowledge with the dev community.",
+  ],
 };
 
 export const SOCIAL_LINKS = {
