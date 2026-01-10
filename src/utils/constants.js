@@ -1,8 +1,8 @@
 export const PERSONAL_INFO = {
   name: 'Rashel H.',
-  title: 'React Developer & UI/UX Enthusiast',
+  title: 'Jr. Developer & Former Digital Marketer',
   email: 'codebyrashel@gmail.com',
-  location: 'San Francisco, CA',
+  location: 'Cox\'s Bazar, BD',
   tagline: 'Crafting seamless digital experiences with modern web technologies.',
   resume: '/resume.pdf',
   bio: `
